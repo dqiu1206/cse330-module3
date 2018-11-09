@@ -1,0 +1,52 @@
+/*CSS Page for all pages*/
+h1.homepage {
+    color: #3D079B;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 200%;
+    font-family: Arial;
+}
+input[type=text] {
+    width: 20%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Arial;
+
+}
+input[type=password] {
+    width: 20%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+textarea {
+    width: 50%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Arial;
+    height: 80%
+}
+input[type=submit] {
+    width: 10%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Arial;
+    color: #5F07F6;
+}
+div.box {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+body{
+    background-image: url("background.jpg");
+    width:100%;
+    position: absolute;
+    top:0;
+    left:0;
+}
